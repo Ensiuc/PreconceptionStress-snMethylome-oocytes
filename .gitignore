@@ -1,0 +1,65 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# OS & editor-specific
+.DS_Store
+.vscode/
+.idea/
+.Rproj.user/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Data files
+*.gz
+*.h5
+*.bam
+*.fastq
+*.sam
+*.vcf
+*.json
+*.parquet
+*.html
+*.tbi
+*.hdf
+*.zip
+*.fa
+mm10.fa
+*.txt.gz
+*.allc.gz
+*.bai
+*.tbi
+*.bedGraph
+*.bw
+*.bias.txt
+*M-bias_R1.png
+*M-bias_R2.png
+*splitting_report.txt
+*allc.txt
+*allc.gz
+*_summary.txt
+*.histogram.pdf
+*.insert.txt
+*.log
+*.png
+*.txt
+mcds*
+genebody
+*allc
+06_methylation
+01_genomes	
+# Secrets / config
+.env
+*.key
+*.pem
+config.yaml
+
