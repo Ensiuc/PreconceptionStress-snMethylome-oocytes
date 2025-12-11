@@ -56,7 +56,9 @@ mcds*
 genebody
 *allc
 06_methylation
-01_genomes	
+01_genomes
+*tsv
+*h5ad	
 # Secrets / config
 .env
 *.key
