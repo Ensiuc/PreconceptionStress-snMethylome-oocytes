@@ -52,6 +52,11 @@ mm10.fa
 *.log
 *.png
 *.txt
+*.out
+*err
+*.RDS
+*.rds
+*.csv
 mcds*
 genebody
 *allc
