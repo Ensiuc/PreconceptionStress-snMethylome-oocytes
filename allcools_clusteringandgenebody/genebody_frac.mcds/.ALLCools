@@ -1,0 +1,5 @@
+ds_region_dim:
+  genebody: genebody
+ds_sample_dim:
+  genebody: cell
+region_dim: null
