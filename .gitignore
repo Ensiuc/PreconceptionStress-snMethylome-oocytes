@@ -59,6 +59,8 @@ mm10.fa
 *.csv
 mcds*
 genebody
+*.pdf
+*.bed
 *allc
 06_methylation
 01_genomes
